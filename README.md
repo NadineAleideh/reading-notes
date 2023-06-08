@@ -1,2 +1,7 @@
 # reading-notes
-This is website to keep track of my observations and questions from the reading assignments throughout the **.NET 401 code course**.
+This is website to keep track of my observations and questions from the reading assignments throughout the **.NET Code 401 course**.
+
+## Code 401 - Advanced Software Development
+
+### Overview
+Reading Notes is a website created to help you keep track of your observations and questions from the reading assignments throughout the **Code 401 - Advanced Software Development**.
