@@ -10,6 +10,8 @@ ___
 
 ### utilities
 
-[ ] Observations.
-[ ] Questions.
-[ ] Organizing ideas and new knowledge.
+- [x] Observations.
+- [x] Questions.
+- [x] Organizing ideas and new knowledge.
+
+___
