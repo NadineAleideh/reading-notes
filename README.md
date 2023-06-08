@@ -9,3 +9,7 @@ Reading Notes is a website that can help you to keep track of your observations 
 ___
 
 ### utilities
+
+[ ] Observations.
+[ ] Questions.
+[ ] Organizing ideas and new knowledge.
