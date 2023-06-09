@@ -7,7 +7,7 @@ This is website to keep track of my observations and questions from the reading 
 
 
 
-[### *Overview*]
+### *Overview*
 Reading Notes is a website that can help you to write down and keep track of your observations and questions from the reading assignments throughout the Code 401 - Advanced Software Development. 
 
 
