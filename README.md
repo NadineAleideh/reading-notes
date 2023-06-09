@@ -26,4 +26,12 @@ Reading Notes is a website that can help you to write down and keep track of you
 -  Questions 
 -  Organizing ideas and new knowledge 
 
+---
+
+### *Introduction to SQL* 
+
+Relational databases are a fundamental concept in data management, where data is organized into tables with rows and columns. SQL (Structured Query Language) is the standard language used to interact with relational databases. It allows users to retrieve, manipulate, and store data by using commands such as SELECT, INSERT, UPDATE, and DELETE. SQL Bolt website that offers interactive lessons to learn SQL through practical examples. It covers various topics including querying data, filtering and sorting results, modifying data, and working with multiple tables using joins. So I practiced with these stuff and by completing these lessons, I gained a solid understanding of relational databases and SQL, and this will enable me to effectively work with databases in my projects and applications.
+
+
+
 
