@@ -191,45 +191,28 @@ expand my perspective.
 
 ## Readings Class 01: Exception Handling
 
-- The major benefit of debugging, in simple words, is that it helps in finding and fixing problems or errors in software. When we encounter unexpected behavior or issues in a program, debugging allows us to investigate and understand what is going wrong. By identifying and resolving these problems, debugging improves the overall functionality and reliability of the software. Also, Debugging offers several advantages that contribute to the overall improvement of software development. Firstly, it helps in identifying the root cause of problems, enabling developers to locate errors in the code. Secondly, it allows for efficient error fixing, reducing the time required to resolve issues and improving the functionality of the software. Additionally, debugging provides developers with a better understanding of program execution, aiding in comprehension of the codebase. Moreover, it saves time by narrowing down the search for errors, leading to faster bug resolution. Lastly, debugging contributes to software improvement by enhancing performance, stability, and usability.
+1. Name one major benefit of being able to trace the call stack?
 
-- One major benefit of being able to trace the call stack is that it helps in understanding the sequence of function calls and how the program flow reaches a particular point in the code. By examining the call stack, developers can gain insights into the execution path of their program, identify which functions or methods were called leading up to an error or unexpected behavior, and determine the order in which these functions were executed.Tracing the call stack can be particularly useful during debugging, as it allows developers to pinpoint the exact location in the code where an issue occurred. This information helps in isolating the cause of the problem and enables developers to focus their debugging efforts on the relevant parts of the code, leading to faster and more efficient bug fixing.
+    - One major benefit of being able to trace the call stack during debugging, is that it helps in understanding the sequence of function calls in their program and how the program flow reaches a particular point in the code and identify which functions or methods were called leading up to an error or unexpected behavior.
 
-- Describe how you explain the .Net approach to exception handling to a non technical friend: 
+2. If you could use try/catch in your day to day life, name an exception you’d like to ‘catch’ and handle?
 
-Imagine you're baking a cake using a recipe. While following the steps, you accidentally add too much salt instead of sugar. Now, you have a problem because your cake won't taste good. In software development, similar unexpected problems can occur, called exceptions.
+   - If I could use try/catch in my day-to-day life, I'd like to use it when I book a flight for vacation , there's a possibility that the airline might cancel or reschedule the flight at the last minute or I be late. To handle this situation, I can use try/catch exception handling and do some altrnative solutions.
 
-In the .NET framework, developers use a special mechanism called exception handling to deal with these unexpected issues in their code. It's like having a backup plan in case something goes wrong while the program is running.
+3. From an efficiency standpoint, are there downsides to try/catch blocks?
+   - From an efficiency standpoint, downsides of try/catch blocks include potential performance impact due to overhead and disruption of control flow. Debugging can also be more complex, and excessive use can harm code readability.
 
-When an exception occurs, the program doesn't crash immediately. Instead, it jumps to a specific part of the code called an exception handler. This handler acts like a safety net that catches the exception and decides what to do next.
+4. Describe how you explain the .Net approach to exception handling to a non technical friend.
 
-Just like a chef would taste the cake batter and decide whether to fix it or start over, the exception handler in .NET can take different actions depending on the type of exception. It can try to fix the problem, provide an alternative solution, or simply display an error message to the user.
-
-Developers can also write their own exception handlers to handle specific types of exceptions that may occur in their code. This way, they can customize how the program responds to different problems.
-
-The goal of exception handling in .NET is to make sure that even if something unexpected happens, the program doesn't crash completely and the user is informed about the issue in a graceful manner. It helps developers create more robust and reliable software by effectively managing errors and keeping the program running smoothly.
-
-So, in a nutshell, exception handling in .NET is like having a safety net that catches and deals with unexpected problems in software, ensuring that the program doesn't break and providing a better user experience.
-
-- Case StudiesTherac-25 and Ariane 5 : Name glaring mistakes that were made during the production of these systems:
+   - I'd like to say imagine you're cooking a recipe. While following the steps, you accidentally add too much sugar instead of salt. Now, you have a problem because your cake won't taste good. In software development, similar unexpected problems can occur, called exceptions. And just like a chef would taste the recipe better and decide whether to fix it or start over, in the .NET framework developers use a special mechanism called exception handling to deal with these unexpected issues in their code. It's like having a backup plan in case something goes wrong while the program is running.
+ 
+5. Case Studies Therac-25 and Ariane 5: Name glaring mistakes that were made during the production of these systems.
 
 
-  1. Therac-25: The Therac-25 was a medical radiation therapy machine that caused several accidents in the 1980s. The following glaring mistakes were made during its production:
+   - Therac-25: The Therac-25 was a medical radiation therapy machine that caused several accidents in the 1980s. The following glaring mistakes were made during its production: Software Design Flaw, Lack of Adequate Safety Interlocks, Insufficient Testing.
 
-         a. Software Design Flaw: The software controlling the Therac-25 had a design flaw that led to a race condition. This flaw allowed the machine to deliver a higher radiation dose than intended, resulting in severe overdoses for patients.
 
-         b. Lack of Adequate Safety Interlocks: The Therac-25 lacked proper safety interlocks, which are mechanisms designed to prevent incorrect operation or unsafe conditions. These interlocks would have detected and prevented the high radiation doses, but they were not implemented effectively.
-
-         c. Insufficient Testing: The Therac-25 underwent inadequate testing before being released to the market. The testing did not adequately simulate real-world scenarios, leading to the failure of identifying and fixing the software design flaw.
-
-2. Ariane 5: The Ariane 5 is a European space launch vehicle that encountered a catastrophic failure during its inaugural flight in 1996. The following glaring mistakes were made during its production:
-
-       a. Incompatible Software: The Ariane 5 reused software code from its predecessor, the Ariane 4. However, the guidance system's software for the Ariane 5 was not suitable for the new, more powerful engines and flight characteristics. This incompatibility caused the system to crash shortly after liftoff.
-
-       b. Lack of Error Handling: The reused software code from Ariane 4 included a piece of code that calculated the rocket's horizontal velocity. This value exceeded the maximum representable value in the system, triggering an integer overflow. The lack of appropriate error handling for this exceptional condition resulted in the system malfunctioning.
-
-       c. Insufficient Testing and Verification: The Ariane 5's software was not thoroughly tested and verified under real-flight conditions. The test data used for validation did not adequately cover the range of possible input values, failing to detect the incompatibility and software limitations.
-
+   - Ariane 5: The Ariane 5 is a European space launch vehicle that encountered a catastrophic failure during its inaugural flight in 1996. The following glaring mistakes were made during its production: Incompatible Software, Lack of Error Handling, Insufficient Testing and Verification.
 
 
 ## Things I want to know more about:
