@@ -18,8 +18,6 @@ Reading Notes is a website that can help you to write down and keep track of you
 - Questions
 - Organizing ideas and new knowledge
 
----
-
 ## preWork
 
 - ### [Introduction into SQl](./preWork/Intro%20sql.md)
@@ -32,8 +30,6 @@ Reading Notes is a website that can help you to write down and keep track of you
 
 - ### [Engineering Readings](./preWork/Engineering%20Readings.md)
 
----
-
 ## Classes Readings
 
 - ### Readings Class 01: Exception Handling [pre](./Classes%20readings/class1/class1-pre.md) [post](./Classes%20readings/class1/class1-post.md)
@@ -41,7 +37,5 @@ Reading Notes is a website that can help you to write down and keep track of you
 - ### Readings Class 02: Unit Testing and Documentation [pre](./Classes%20readings/class2/class2-pre.md) [post](./Classes%20readings/class2/class2-post.md)
 
 - ### Readings Class 03: File Manipulation / System.IO [pre](./Classes%20readings/class3/class3-pre.md) [post](./Classes%20readings/class3/class3-post.md)
-
----
 
 ## Things I want to know more about [here](./preWork/Things%20I%20want%20to%20know%20more%20about.md)
