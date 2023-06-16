@@ -20,15 +20,15 @@ Reading Notes is a website that can help you to write down and keep track of you
 
 ## preWork
 
-- ### [Introduction into SQl](./Intro%20sql.md)
+- ### [Introduction into SQl](./preWork/Intro%20sql.md)
 
-- ### [Practice in the Terminal](./Practice%20in%20the%20Terminal.md)
+- ### [Practice in the Terminal](./preWork/Practice%20in%20the%20Terminal.md)
 
-- ### [The Growth Mindset](./The%20Growth%20Mindset.md)
+- ### [The Growth Mindset](./preWork/The%20Growth%20Mindset.md)
 
-- ### [Data Structures and Algorithms](./Data%20Structures%20and%20Algorithms.md)
+- ### [Data Structures and Algorithms](./preWork/Data%20Structures%20and%20Algorithms.md)
 
-- ### [Engineering Readings](./Engineering%20Readings.md)
+- ### [Engineering Readings](./preWork/Engineering%20Readings.md)
 
 ## Classes Readings
 
@@ -38,4 +38,4 @@ Reading Notes is a website that can help you to write down and keep track of you
 
 - ### Readings Class 03: File Manipulation / System.IO [pre](./Classes%20readings/class3/class3-pre.md) [post](./Classes%20readings/class3/class3-post.md)
 
-## Things I want to know more about [here](./Things%20I%20want%20to%20know%20more%20about.md)
+## Things I want to know more about [here](./preWork/Things%20I%20want%20to%20know%20more%20about.md)
