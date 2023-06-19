@@ -38,4 +38,6 @@ Reading Notes is a website that can help you to write down and keep track of you
 
 - ### Readings Class 03: File Manipulation / System.IO [pre](./Classes%20readings/class3/class3-pre.md) [post](./Classes%20readings/class3/class3-post.md)
 
+- ### Readings Class 04: Classes & Memory Management [pre](./Classes%20readings/class4/class4-pre.md) [post](./Classes%20readings/class4/class4-post.md)
+
 ## Things I want to know more about [here](./preWork/Things%20I%20want%20to%20know%20more%20about.md)
