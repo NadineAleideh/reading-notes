@@ -40,4 +40,6 @@ Reading Notes is a website that can help you to write down and keep track of you
 
 - ### Readings Class 04: Classes & Memory Management [pre](./Classes%20readings/class4/class4-pre.md) [post](./Classes%20readings/class4/class4-post.md)
 
+- ### Readings CC 05: Implementation: Linked Lists [pre](./Classes%20readings/class5/class5-pre.md) [post](./Classes%20readings/class5/class5-post.md)
+
 ## Things I want to know more about [here](./preWork/Things%20I%20want%20to%20know%20more%20about.md)
