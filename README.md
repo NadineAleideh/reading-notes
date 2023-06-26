@@ -44,4 +44,6 @@ Reading Notes is a website that can help you to write down and keep track of you
 
 - ### Class 06 Readings: Object Oriented Principles[pre](./Classes%20readings/class6/class6-pre.md) [post](./Classes%20readings/class6/class6-post.md)
 
+- ### Class 07 Readings: Interfaces[pre](./Classes%20readings/class7/class7-pre.md) [post](./Classes%20readings/class7/class7-post.md)
+
 ## Things I want to know more about [here](./preWork/Things%20I%20want%20to%20know%20more%20about.md)
