@@ -46,4 +46,6 @@ Reading Notes is a website that can help you to write down and keep track of you
 
 - ### Class 07 Readings: Interfaces[pre](./Classes%20readings/class7/class7-pre.md) [post](./Classes%20readings/class7/class7-post.md)
 
+- ### Class 08 Readings: Collections & Enums[pre](./Classes%20readings/class8/class8-pre.md) [post](./Classes%20readings/class8/class8-post.md)
+
 ## Things I want to know more about [here](./preWork/Things%20I%20want%20to%20know%20more%20about.md)
