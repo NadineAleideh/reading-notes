@@ -1,1 +1,3 @@
-# Class 08 Learnings
+# Class 09 Learnings
+
+Today I learned about delegate which is is like a pointer to a method It makes our code extensible , and if we want to implement a new method we don’t have to rebuild and compile our program and the user can implement any method he want throughout the delegate. Also, I learned about the concept of LINQ which offers a major advantage by enabling developers to use the same C# language they already know and love to write queries for different data sources. But, still need to learn more about it and and see more applications on it since the lecture outputs wasn't enough for me.

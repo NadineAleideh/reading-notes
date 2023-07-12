@@ -23,3 +23,7 @@
 ## Class09
 
 - About Data Transformations with LINQ. becuase as I read that (LINQ) is not only about retrieving data. It is also a powerful tool for transforming data.
+
+## Class11
+
+- Practice more How to Converet a real requierments to a complete data base.

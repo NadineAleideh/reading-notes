@@ -52,4 +52,6 @@ Reading Notes is a website that can help you to write down and keep track of you
 
 - ### Class 10 Readings: Implementation: Stacks and Queues [pre](./Classes%20readings/class9/class9-pre.md) [post](./Classes%20readings/class9/class9-post.md)
 
+- ### Class 11 Readings: Introduction to Databases and ERDs [pre](./Classes%20readings/class11/class11-pre.md) [post](./Classes%20readings/class11/class11-post.md)
+
 ## Things I want to know more about [here](./preWork/Things%20I%20want%20to%20know%20more%20about.md)
