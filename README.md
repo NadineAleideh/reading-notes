@@ -54,4 +54,6 @@ Reading Notes is a website that can help you to write down and keep track of you
 
 - ### Class 11 Readings: Introduction to Databases and ERDs [pre](./Classes%20readings/class11/class11-pre.md) [post](./Classes%20readings/class11/class11-post.md)
 
+- ### Class 12 Readings: Entity Framework and APIs [pre](./Classes%20readings/class12/class12-pre.md) [post](./Classes%20readings/class12/class12-post.md)
+
 ## Things I want to know more about [here](./preWork/Things%20I%20want%20to%20know%20more%20about.md)
