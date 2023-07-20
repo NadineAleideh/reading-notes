@@ -56,4 +56,6 @@ Reading Notes is a website that can help you to write down and keep track of you
 
 - ### Class 12 Readings: Entity Framework and APIs [pre](./Classes%20readings/class12/class12-pre.md) [post](./Classes%20readings/class12/class12-post.md)
 
+- ### Class 13 Readings: Dependency Injection & Repository Design Pattern [pre](./Classes%20readings/class13/class13-pre.md) [post](./Classes%20readings/class13/class13-post.md)
+
 ## Things I want to know more about [here](./preWork/Things%20I%20want%20to%20know%20more%20about.md)
