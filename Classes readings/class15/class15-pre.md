@@ -52,7 +52,6 @@ Here are some examples of tree data structures:
 
 - **Compilers** use trees to represent the syntax of programming languages.
 
-
 ## Things I want to know more about
 
 nothing for now.
