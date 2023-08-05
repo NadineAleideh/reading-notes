@@ -66,4 +66,6 @@ Reading Notes is a website that can help you to write down and keep track of you
 
 - ### Class 17 Readings: Testing and Swagger and Deployment [pre](./Classes%20readings/class17/class17-pre.md) [post](./Classes%20readings/class17/class17-post.md)
 
+- ### Class 18 Readings: Identity [pre](./Classes%20readings/class17/class18-pre.md) [post](./Classes%20readings/class17/class18-post.md)
+
 ## Things I want to know more about [here](./preWork/Things%20I%20want%20to%20know%20more%20about.md)
