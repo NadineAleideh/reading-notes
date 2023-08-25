@@ -1,27 +1,37 @@
-# Readings: Intro to MVC
+# Roles, Claims and JWT Tokens
 
-## Tag Helpers in ASP.NET Core
+## why this topic matters as it relates to what Iam studying in this module?
 
-Tag Helpers in ASP.NET Core facilitate server-side participation in generating and rendering HTML elements within Razor files, offering benefits like an HTML-centric development experience, improved IntelliSense support, and increased productivity. They enable tasks such as automatically appending version numbers to image names, ensuring up-to-date images without manual intervention. Unlike HTML Helpers, Tag Helpers streamline the transition between HTML and C# code, catering to both front-end designers and experienced developers. However, they are not compatible with Razor components. Overall, Tag Helpers enhance code maintainability and reliability by leveraging server-side information to produce more robust web applications.
+Roles help categorize users based on their roles and responsibilities, claims provide specific information about a user, and JWT tokens are a secure way to package and transmit this information for authentication and authorization purposes in ASP.NET Core MVC applications.
 
-## MVC Basics
+## Roles
 
-MVC (Model-View-Controller) is a fundamental architectural pattern used in software development, particularly for designing and structuring web applications. The pattern separates an application into three interconnected components, each with its own distinct role:
+Roles are used to group users based on their responsibilities or permissions within an application. For example, an application might have roles like "Admin," "User," and "Guest." Users with different roles can access different parts of the application and perform different actions. Roles help in managing access control and ensuring that users only have access to the features they're authorized to use.
 
-- Model: The Model represents the data and the business logic of the application. It encapsulates the application's core functionality, such as data handling, validation, and calculations. Models often interact with databases or other data sources to retrieve or manipulate data. Separating data and logic into the Model makes the application more maintainable and easier to modify without affecting the user interface or other components.
+## Claims-based authorization in ASP.NET Core
 
-- View: The View is responsible for rendering the user interface. It presents the data from the Model to the user and provides an interactive interface for user interactions. Views are designed to display information in a readable and understandable format. In the context of web applications, Views are typically HTML templates that incorporate placeholders for dynamic data.
+- Claims are pieces of information about a user that describe their identity or attributes. Claims can be things like a user's name, email, role, age, etc. They provide context and details about the user's characteristics. Claims are often used in authentication and authorization processes to determine what a user is allowed to do within an application based on their attributes.
 
-- Controller: The Controller acts as an intermediary between the Model and the View. It handles user requests, processes input, and orchestrates the interaction between the Model and the View. When a user interacts with the application, such as submitting a form, the Controller receives the input, performs necessary actions on the Model, and then selects the appropriate View to display the updated information.
+- When an identity is created it may be assigned one or more claims issued by a trusted party. A claim is a name value pair that represents what the subject is, not what the subject can do.
 
-### Bootstrap
+### Adding claims checks
 
-Bootstrap is a popular open-source front-end framework that provides a set of pre-designed HTML, CSS, and JavaScript components for building responsive and visually appealing web applications and websites. Developed by Twitter, Bootstrap simplifies web development by offering a standardized collection of design elements, such as navigation bars, buttons, grids, forms, and modals, that can be easily customized and integrated into projects. Its responsive features ensure that applications adapt seamlessly to various screen sizes and devices, enhancing user experience. With its extensive documentation and community support, Bootstrap has become a go-to choice for developers looking to create modern, consistent, and responsive web interfaces.
+Claim based authorization checks:
 
-## Azure DevOps
+- Are declarative.
+- Are applied to Razor Pages, controllers, or actions within a controller.
+- Can not be applied at the Razor Page handler level, they must be applied to the Page.
 
-Azure DevOps documentation is a comprehensive resource provided by Microsoft that offers detailed information, guides, tutorials, and best practices for utilizing Azure DevOps services. Covering a wide range of topics related to software development, continuous integration, delivery, and deployment, the documentation assists developers, operations teams, and DevOps professionals in effectively utilizing Azure DevOps tools for building, testing, deploying, and monitoring applications. It includes insights into version control, build pipelines, release management, agile project management, and more. With its user-friendly layout and up-to-date content, Azure DevOps documentation serves as a valuable reference for individuals and teams seeking to streamline their development processes and maximize the capabilities of Microsoft's DevOps platform.
+## The difference between Authentication and Authorisation
+
+First of all, we should clarify the difference between these two dependent facets of security. The simple answer is that Authentication is the process of determining who you are, while Authorisation revolves around what you are allowed to do, i.e. permissions. Obviously before you can determine what a user is allowed to do, you need to know who they are, so when authorisation is required, you must also first authenticate the user in some way.
+
+## JWT Authentication
+
+- JSON Web Token (JWT) is a means of representing claims to be transferred between two parties. The claims in a JWT are encoded as a JSON object that is digitally signed using JSON Web Signature (JWS) and/or encrypted using JSON Web Encryption (JWE).
+
+- JWT tokens are a type of compact and self-contained data format that is used for securely transmitting information between parties. In the context of ASP.NET Core MVC, JWT tokens are commonly used for authentication and authorization. These tokens are digitally signed and can carry claims about the user, like their ID, roles, or other attributes. When a user logs in, they receive a JWT token that they can include in their subsequent requests. The server then verifies the token's integrity and extracts claims to determine the user's identity and permissions.
 
 ## Things I want to know more about
 
-nothing for now.
+How to benefits from all identity features and combine them togather in real apps to result to a strong user identity.
