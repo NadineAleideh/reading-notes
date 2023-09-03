@@ -74,4 +74,6 @@ Reading Notes is a website that can help you to write down and keep track of you
 
 - ### Class 27 Readings:  MVC Forms [pre](./Classes%20readings/class27/class27-pre.md) [post](./Classes%20readings/class27/class27-post.md)
 
+- ### Class 28 Readings:  MVC Cookies [pre](./Classes%20readings/class28/class28-pre.md) [post](./Classes%20readings/class28/class28-post.md)
+
 ## Things I want to know more about [here](./preWork/Things%20I%20want%20to%20know%20more%20about.md)
