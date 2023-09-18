@@ -82,4 +82,6 @@ Reading Notes is a website that can help you to write down and keep track of you
 
 - ### Class 31 Readings:  Razor Pages [pre](./Classes%20readings/class31/class31-pre.md) [post](./Classes%20readings/class31/class31-post.md)
 
+- ### Class 32 Readings:  View Components [pre](./Classes%20readings/class32/class32-pre.md) [post](./Classes%20readings/class32/class32-post.md)
+
 ## Things I want to know more about [here](./preWork/Things%20I%20want%20to%20know%20more%20about.md)
