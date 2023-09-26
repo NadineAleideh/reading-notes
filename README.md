@@ -88,4 +88,6 @@ Reading Notes is a website that can help you to write down and keep track of you
 
 - ### Class 34 Readings:  Payment Processing [pre](./Classes%20readings/class34/class34-pre.md) [post](./Classes%20readings/class34/class34-post.md)
 
+- ### Class 35 Readings:  Graphs [pre](./Classes%20readings/class35/class35-pre.md) [post](./Classes%20readings/class35/class35-post.md)
+
 ## Things I want to know more about [here](./preWork/Things%20I%20want%20to%20know%20more%20about.md)
