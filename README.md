@@ -92,4 +92,8 @@ Reading Notes is a website that can help you to write down and keep track of you
 
 - ### Class 37 Readings:  JAM Stack [pre](./Classes%20readings/class37/class37-pre.md) [post](./Classes%20readings/class37/class37-post.md)
 
+- ### Class 38 Readings:  React 1 [pre](./Classes%20readings/class38/class38-pre.md) [post](./Classes%20readings/class38/class38-post.md)
+
+- ### Class 39 Readings:  React 2 [pre](./Classes%20readings/class39/class39-pre.md) [post](./Classes%20readings/class39/class39-post.md)
+
 ## Things I want to know more about [here](./preWork/Things%20I%20want%20to%20know%20more%20about.md)
